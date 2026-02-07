@@ -1,0 +1,48 @@
+# Laravel
+/vendor
+/node_modules
+/public/hot
+/public/build  # ← Important: Do NOT commit build artifacts to Git
+/storage/*.key
+/storage/logs/*.log
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/bootstrap/cache/*.php
+
+# Environment
+.env
+.env.*
+.env.backup
+.phpunit.result.cache
+.nova
+
+# Vite / JS / CSS
+.npmrc
+.yarn*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+vite.config.js.cache
+
+# IDE / Editor
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# OS / Temp
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# Testing
+.php_cs.cache
+.phpcs-cache
+
+# Misc
+composer.phar
+.vercel

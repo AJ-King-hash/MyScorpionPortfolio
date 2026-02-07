@@ -1,0 +1,23 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-00CxLDJU.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/fonts/yoshidaSans/fonnts.com-yoshidasans-regular.otf": {
+    "file": "assets/fonnts.com-yoshidasans-regular-DmgOPUwa.otf",
+    "src": "resources/fonts/yoshidaSans/fonnts.com-yoshidasans-regular.otf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DjqrVEpx.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-ClA3N2Tb.css"
+    ]
+  }
+}
